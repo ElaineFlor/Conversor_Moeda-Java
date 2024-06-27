@@ -15,9 +15,15 @@ OBJETIVO: Desenvolver um Conversor de Moedas que ofereça interação textual (v
 com os usuários, proporcionando no mínimo 6 opções distintas de conversões de moedas em um menu. 
 A taxa de conversão não será estática, mas sim dinamicamente obtida por meio de uma API, 
 garantindo dados precisos e em tempo real para uma experiência mais atualizada e eficaz.
+<br>
 
-API Utilizada foi a: https://www.exchangerate-api.com/
-![image](https://github.com/ElaineFlor/JavaConversorMoedaAPI/assets/101606895/3a0625f1-0374-44e1-9ef7-d17ca10252df)">
+<p align="justify">
+API Utilizada foi: <br>
+<img src="https://www.exchangerate-api.com/img/hr-logo-2022-ldpi-rc.png">
+  
+Link: https://www.exchangerate-api.com/ 
+</p>
+
 
 <h2>Prints do Programa em Execução </h2>
 ### IntelliJ
