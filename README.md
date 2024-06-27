@@ -36,7 +36,12 @@ Link: https://www.exchangerate-api.com/
 ### Menu
 ![image](https://github.com/ElaineFlor/Conversor_Moeda-Java/assets/101606895/468efdf3-f0d3-4576-bbf1-6941a4111315)
 
-### Loop com condição para continuar ou sair somente se as letras S ou N forem digitadas
+### Loop com condição para continuar ou sair
+
+<p> O Programa irá continuar ou finalizar somente se os números que constam no menu de opções ou as letras (S) ou (N) forem digitadas.
+Enquanto o usuário digitar errado o programa irá informar o erro e solicitar para digitar o caracter válido.
+</p>
+
 ![image](https://github.com/ElaineFlor/Conversor_Moeda-Java/assets/101606895/8baacf1c-24eb-4fae-a60f-331b7bd0b746)
 
 ### Histórico das moedas pesquisadas salvo em arquivo.json
