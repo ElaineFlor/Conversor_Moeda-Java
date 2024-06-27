@@ -55,3 +55,8 @@ Enquanto o usuário digitar errado o programa irá informar o erro e solicitar p
 - ``Orientação a objetos;``
 - ``ExchangeRate-API;``
 - ``Gson;``
+
+
+## BADGE do Desafio
+
+![Badge-Conversor](https://github.com/ElaineFlor/Conversor_Moeda-Java/assets/101606895/8f4c072b-9702-422a-8a7b-0543133975b1)
