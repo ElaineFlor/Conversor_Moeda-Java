@@ -1,0 +1,26 @@
+[
+  {
+    "moedaInicial": "BRL",
+    "moedaFinal": "USD",
+    "valorConverter": 100.0,
+    "valorConvertido": 18.25
+  },
+  {
+    "moedaInicial": "USD",
+    "moedaFinal": "BRL",
+    "valorConverter": 300.0,
+    "valorConvertido": 1643.58
+  },
+  {
+    "moedaInicial": "BRL",
+    "moedaFinal": "ARS",
+    "valorConverter": 20.0,
+    "valorConvertido": 3324.754
+  },
+  {
+    "moedaInicial": "BRL",
+    "moedaFinal": "BOB",
+    "valorConverter": 150.0,
+    "valorConvertido": 189.82500000000002
+  }
+]
